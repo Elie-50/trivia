@@ -122,7 +122,7 @@ function SelectionPage() {
           </div>
 
           {/* Submit Button */}
-          <Button type="submit" className="mt-6 px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700">
+          <Button type="submit" className="mt-6 px-4 py-2 bg-chart-1 text-white rounded-md hover:bg-chart-1/80">
             Start Trivia
           </Button>
         </form>
